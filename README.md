@@ -1,1 +1,1 @@
-# Facial Emotion-based music recommender
+# Facial Emotion-Based Music Recommender
